@@ -1,0 +1,23 @@
+# Build output
+build/
+
+# Managed components (pulled by idf-component-manager)
+managed_components/
+
+# Dependencies lock file (auto-generated)
+dependencies.lock
+
+# Python virtualenv / tools (local installs)
+.espressif/
+.espressif_python_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
