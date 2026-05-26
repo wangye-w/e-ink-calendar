@@ -23,5 +23,5 @@ dependencies.lock
 Thumbs.db
 
 # Claude
-.claude
+.claude/
 CLAUDE.md
